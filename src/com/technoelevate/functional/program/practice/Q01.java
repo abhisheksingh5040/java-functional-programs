@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-//Q: 1) Find all even numbers from a list
+//Q1) Find all even numbers from a list
 public class Q01 {
     public static void main(String[] args) {
         List<Integer> input = Arrays.asList(1, 2, 3, 4, 5, 6);
